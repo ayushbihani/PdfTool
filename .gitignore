@@ -8,6 +8,7 @@ bin/Split$1.class
 bin/Split$2.class
 bin/Split.class
 bin/WordToPdfConverter.class
-src/MainClass$1.class
-src/MainClass.class
+bin/License.class
+bin/Home.class
+
 
