@@ -23,6 +23,7 @@ public class License extends JPanel{
 	private ButtonGroup group;
 	private JRadioButton acceptButton,rejectButton;
 	private JPanel radioButtonPanel;
+	
 	public License()
 	{
 		text="This comprehensive 21-hour online course was specifically \n designed to teach you Python by building 10 \n real world applications step by step. Learn \n how to use Python for the web, databases \n , web scraping, data science, web visualizations, image processing \n & more.If you want to make learning Python fun \n nd enjoyable this is the ultimate course for you. Traditional \n  programming boot camps can cost $700 or more \n , but since Udemy courses are online and on-demand, you’ll \n get the same world-class instruction for only $29! Plus, \n you’ll get lifetime access to your content, can  \n learn at your own pace on any device, and you’re protected \n by a 100% money-back guarantee.";
@@ -66,7 +67,7 @@ public class License extends JPanel{
 			           {  
 			            if(temp.getText().equals(agree))
 			            {
-			            	new MainClass().trial();
+			            	MainClass.trial();
 			            	// call new class object
 			            }
 			            else
