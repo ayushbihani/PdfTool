@@ -14,3 +14,4 @@ bin/Split.class
 bin/WordToPdfConverter.class
 bin/MainClass.class
 bin/MainClass$1.class
+.classpath
