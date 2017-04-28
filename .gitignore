@@ -1,4 +1,8 @@
+bin/Home.class
+bin/Home$1.class
+bin/Home$2.class
 bin/Home$3.class
+bin/License.class
 bin/License$1.class
 bin/Merge$1.class
 bin/Merge$2.class
@@ -8,7 +12,5 @@ bin/Split$1.class
 bin/Split$2.class
 bin/Split.class
 bin/WordToPdfConverter.class
-bin/License.class
-bin/Home.class
-
-
+bin/MainClass.class
+bin/MainClass$1.class
