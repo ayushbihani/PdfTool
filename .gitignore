@@ -4,4 +4,10 @@ bin/Merge$1.class
 bin/Merge$2.class
 bin/Merge$3.class
 bin/Merge.class
+bin/Split$1.class
+bin/Split$2.class
+bin/Split.class
+bin/WordToPdfConverter.class
+src/MainClass$1.class
+src/MainClass.class
 
